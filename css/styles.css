@@ -2,11 +2,13 @@ body {
   font-family: "Montserrat, sans-serif";
   text-align: center;
 }
+
 #title {
   background-color: #ff4c68;
   color: white;
   text-align: left;
 }
+
 h1,
 h2,
 h3,
@@ -19,10 +21,12 @@ h6 {
 .container-fluid {
   padding: 7% 15%;
 }
+
 .row {
   padding: 5%;
   height: 30%;
 }
+
 #features {
   padding: 7% 15%;
   position: relative;
@@ -37,6 +41,7 @@ h6 {
 p {
   color: grey;
 }
+
 .big-heading {
   font-family: "Montserrat-Black, sans-serif";
   font-size: 3rem;
@@ -48,6 +53,7 @@ p {
   font-size: 3rem;
   line-height: 1.5;
 }
+
 /* navigation bar */
 .navbar {
   padding: 3% 3% 3% 4.5rem;
@@ -59,13 +65,16 @@ p {
   font-weight: bold;
   padding-left: 2.5rem;
 }
+
 .nav-item {
   padding: 0 18px;
 }
+
 .nav-link {
   font-size: 1.2rem;
   font-family: montserrat-light;
 }
+
 .iphone {
   width: 30%;
   position: absolute;
@@ -85,16 +94,19 @@ p {
   font-size: 4rem;
   padding: 3.5rem;
 }
+
 .fa-bullseye {
   color: #ff4c68;
   padding: 3.5rem;
   font-size: 4rem;
 }
+
 .fa-heart {
   color: #ff4c68;
   padding: 3.5rem;
   font-size: 4rem;
 }
+
 i:hover {
   color: #f7083c;
 }
@@ -142,6 +154,7 @@ i:hover {
   font-size: 3rem;
   line-height: 1.5;
 }
+
 #pricing {
   padding: 100px;
 }
@@ -155,6 +168,7 @@ i:hover {
     position: static;
     transform: rotate(0);
   }
+
   #title {
     text-align: center;
   }
